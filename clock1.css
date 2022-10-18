@@ -1,0 +1,11 @@
+body {
+  color: #fff;
+  font-family: "Lucida Console";
+  font-size: 12px;
+}
+.clock{
+  display:block;
+  position: relative;
+  top: 20px;
+  margin-left: 5%;
+}
